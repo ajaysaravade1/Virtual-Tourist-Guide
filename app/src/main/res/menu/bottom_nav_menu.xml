@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/explore"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/navigation_activities"
+        android:icon="@drawable/activities"
+        android:title="Activities" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/camera"
+        android:title="Camera" />
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/services"
+        android:title="Services" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+</menu>
