@@ -1,6 +1,6 @@
 # Virtual-Tourist-Guide
-This Repository Contains Virtual Tourist Guide project of Gov. of Goa. Implemented By our Team. Domain of the Project is Android App Development.<br>In this App we Use Transfer Learning to LEarn Image Classification model<br>
-And USed ModileNet model for Transfer Learning<br>
+This Repository Contains Virtual Tourist Guide project of Gov. of Goa. Implemented By our Team. Domain of the Project is Android App Development.<br>In this App we Use Transfer Learning to LEarn Image Classification model.<br>
+And USed ModileNet model for Transfer Learning.<br>
 ## Table of Contents
 * [Installation](#installation)
 
@@ -21,7 +21,7 @@ $ git clone omkarmali235/Virtual-Tourist-Guide
 
 
 ### Screenshots
-![](/home.png)<br>
+<p>![](/home.png)<br>
 ![](/login.png)<br>
 ![](/info.png)<br>
 ![](/activities.png)<br>
