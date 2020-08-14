@@ -21,17 +21,17 @@ $ git clone omkarmali235/Virtual-Tourist-Guide
 
 
 ### Screenshots
-![](/home.png)
-![](/login.png)
-![](/info.png)
-![](/activities.png)
-![](/snap.png)
-![](/snapinfo.png)
-![](/services.png)
-![](/serviceinfo.png)
-![](/searchbylabel.png)
-![](/rating.png)
-![](/profile.png)
+![](/home.png)<br>
+![](/login.png)<br>
+![](/info.png)<br>
+![](/activities.png)<br>
+![](/snap.png)<br>
+![](/snapinfo.png)<br>
+![](/services.png)<br>
+![](/serviceinfo.png)<br>
+![](/searchbylabel.png)<br>
+![](/rating.png)<br>
+![](/profile.png)<br>
 
 
 #### Owners
