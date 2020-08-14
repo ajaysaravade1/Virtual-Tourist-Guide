@@ -21,7 +21,7 @@ $ git clone omkarmali235/Virtual-Tourist-Guide
 
 
 ### Screenshots
-<p>![](/home.png)<br>
+<pre>![](/home.png)<br>
 ![](/login.png)<br>
 ![](/info.png)<br>
 ![](/activities.png)<br>
