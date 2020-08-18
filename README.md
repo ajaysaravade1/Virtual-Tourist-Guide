@@ -1,8 +1,8 @@
 # Virtual-Tourist-Guide
-This repository contains 'Virtual Tourist Guide' project build for Gov. of Goa in Smart India Hackthon, Implemented by our team.
+This repository contains the 'Virtual Tourist Guide' project build for Gov. of Goa in Smart India Hackathon, Implemented by our team.
 - This Application Build using Android Studio.
-- In this App we Use Convolutional Neural Network to Identify Mounament.
-- Store the information of mounaments in Firebase.
+- In this App we Use Convolutional Neural Network to Identify monuments.
+- Store the information of monuments in Firebase.
 
 ## Table of Contents
 * [Screenshots](#Screenshots)
